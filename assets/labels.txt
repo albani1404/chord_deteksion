@@ -1,0 +1,14 @@
+0 A
+1 Am
+2 B
+3 Background Noise
+4 Bm
+5 C
+6 Cm
+7 D
+8 Dm
+9 E
+10 Em
+11 F
+12 Fm
+13 G

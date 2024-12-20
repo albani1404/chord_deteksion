@@ -1,0 +1,3 @@
+0 apel merah
+1 plum
+2 apricot
